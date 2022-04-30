@@ -1,6 +1,6 @@
 # Infi.sh  
   
-The code that's running [infi.sh](https://infi.sh).
+The code that's running [narashini.xyz](https://narashini.xyz).
 
 ## License
 
