@@ -5,8 +5,8 @@ coverImage: /posts/new-website/epiphany.png
 date: "2021-09-27T21:27:13.118Z"
 pinned: true
 author:
-    name: Infi
-    picture: https://github.com/infi.png
+    name: Narashini
+    picture: https://github.com/leakyboi.png
 ---
 
 I've been trying to make a website I like for a while now, and I think the search is over now. This website uses markdown for the posts and projects and next.js for the website itself. I dont know much about web development, so i forked it from [infi.sh](https://infi.sh) and i made sure to follow the license. I really like the purpleish design and how the pages fade in at just the right speed. The rest of this was written by infi in his [blog post](https://infi.sh/post/new-website), so enjoy some nice markdown showcases.
