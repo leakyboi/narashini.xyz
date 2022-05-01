@@ -29,6 +29,9 @@ const NotFoundMessage = styled.h2`
     color: #CAB8FD;
     margin: 0;
 `
+const eastereggmessage = styled.a`
+    color: #201A25;
+`
 
 const NotFound = () => {
     return (
@@ -37,10 +40,10 @@ const NotFound = () => {
             <NotFoundWrapper>
                 <div>
                     <Anime easing={'easeOutElastic(1, .8)'} translateY={[30, 0]} opacity={[0, 1]} delay={400}>
-                        <NotFoundStatusCode>404</NotFoundStatusCode>
+                        <NotFoundStatusCode><a href="/easteregg">404</a></NotFoundStatusCode>
                     </Anime>
                     <Anime easing={'easeOutElastic(1, .8)'} translateY={[30, 0]} opacity={[0, 1]} delay={600}>
-                        <NotFoundMessage>Page not found. Maybe next time?</NotFoundMessage>
+                        <NotFoundMessage>Oh no! We couldn't find that page.</NotFoundMessage>
                     </Anime>
                 </div>
             </NotFoundWrapper>

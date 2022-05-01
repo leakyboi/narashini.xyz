@@ -7,9 +7,9 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
     return (
         <>
             <Head>
-                <title>Infi</title>
+                <title>Leaked/Narashini</title>
                 <meta property="og:locale" content="en" />
-                <meta property="og:site_name" content="Infi" />
+                <meta property="og:site_name" content="Hey there!" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="theme-color" content="#28202f" />
                 <link rel="icon" href="/favicon.png" type="image/png" />

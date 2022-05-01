@@ -72,22 +72,51 @@ const InitialIntroduction = () => {
             <Introduction>
                 <Anime easing={'easeOutElastic(1, .8)'} translateY={[30, 0]} opacity={[0, 1]} delay={50}>
                     <NameIntroduction>
-                        Hello.
+                        Hiya!
                         <Anime easing={'easeOutElastic(1, .8)'} translateY={[30, 0]} opacity={[0, 1]} delay={100}>
                             <EmphasizedNameIntroduction>
-                                I'm Infi.
+                                I'm Narashimi.
                             </EmphasizedNameIntroduction>
                         </Anime>
+                        (aka _leaked)
                     </NameIntroduction>
                 </Anime>
                 <Anime easing={'easeOutElastic(1, .8)'} translateY={[30, 0]} opacity={[0, 1]} delay={500}>
                     <GitHubSection>
                         <GitHubLink
-                            href="https://github.com/infi"
+                            href="https://github.com/leakyboi"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            github.com/infi »
+                            GitHub »
+                        </GitHubLink>
+                        <GitHubLink
+                            href="https://gitlab.com/leakeddev"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitLab »
+                        </GitHubLink>
+                        <GitHubLink
+                            href="https://discord.gg/whpwAaT6px"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Discord Server »
+                        </GitHubLink>
+                        <GitHubLink
+                            href="https://mm.draftish.xyz"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            MatterMost »
+                        </GitHubLink>
+                        <GitHubLink
+                            href="https://panel.draftish.xyz"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Pterodactyl »
                         </GitHubLink>
                         <Anime easing={'easeOutElastic(1, .8)'} translateY={[30, 0]} opacity={[0, 1]} delay={510}>
                             or scroll down

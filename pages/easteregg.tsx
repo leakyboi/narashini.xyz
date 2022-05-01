@@ -34,8 +34,9 @@ const ServerError = () => {
             <Navbar />
             <ServerErrorWrapper>
                 <div>
-                    <ServerErrorStatusCode>500</ServerErrorStatusCode>
-                    <ServerErrorMessage>Whoops! Our servers decided to try finding your dad, so they cant work right now. Sorry about that!</ServerErrorMessage>
+                    <ServerErrorStatusCode>Hello there!</ServerErrorStatusCode>
+                    <ServerErrorMessage>You found me! Enjoy a picture of franklin :)</ServerErrorMessage>
+                    <img src="/franklin-removebg.png" alt="Whoops! Your browser cant display franklin :( shit browser bro"></img>
                 </div>
             </ServerErrorWrapper>
         </>

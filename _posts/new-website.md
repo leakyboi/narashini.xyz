@@ -1,6 +1,6 @@
 ---
-title: This is the new infi.sh
-description: A completely new website, built from scratch with Next.js
+title: This is the new draftish.xyz
+description: An upgrade from the Ghost website.
 coverImage: /posts/new-website/epiphany.png
 date: "2021-09-27T21:27:13.118Z"
 pinned: true
@@ -9,18 +9,9 @@ author:
     picture: https://github.com/infi.png
 ---
 
-I have been working on a new website for a while now, and it finally got to a point where I can say: It's here.  
-It's built with Next.js and has a fully custom static-site blog system using Markdown with Rehype for content management.  
+I've been trying to make a website I like for a while now, and I think the search is over now. This website uses markdown for the posts and projects and next.js for the website itself. I dont know much about web development, so i forked it from [infi.sh](https://infi.sh) and i made sure to follow the license. I really like the purpleish design and how the pages fade in at just the right speed. The rest of this was written by infi in his [blog post](https://infi.sh/post/new-website), so enjoy some nice markdown showcases.
   
-**See its [project page](/project/infi.sh) for more information about the technology and the project.**  
-  
-The new website is still partly under construction, but it is ready to go as far as I can see.  
-I hope you enjoy it just as much as I enjoyed making it and enjoy maintaining it.  
-If you have any questions, you can contact me either on Discord or via contact@infi.sh.  
-  
-**The source code is available on [GitHub](https://github.com/infi/infi.sh).**  
-
-Also be sure to check out **Wait What's** website at [waitwhat.sh](https://waitwhat.sh).
+**The source code is available on [GitHub](https://github.com/leakyboi/narashini.xyz).**
 
 ## The Demonstration
 
@@ -50,6 +41,7 @@ As for the rest of the post, I will be demonstrating some Markdown features.
 | Kyiv | Ukraine |
 
 <!-- The table above is a mystery table of various cities and countries. However, upon closer inspection, we can see that the order stands for the cities and countries that hosted the Eurovision Song Contest, starting in 2007 until 2017. I was surprised how many people didn't know that. -->
+<!-- I actually didnt, thank you Infi! -->
 
 > A blockquote.
 

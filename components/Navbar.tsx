@@ -44,7 +44,7 @@ const Navbar = () => {
             <Anime easing={'easeOutElastic(1, .8)'} translateY={[10, 0]} opacity={[0, 1]} delay={50}>
                 <NavbarLeft>
                     <NavbarLink href="/">
-                        <NavbarBrand>Infi</NavbarBrand>
+                        <NavbarBrand>Narashini</NavbarBrand>
                     </NavbarLink>
                 </NavbarLeft>
             </Anime>
